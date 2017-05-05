@@ -45,9 +45,7 @@
 
 /* Basic */
 
-	.red-text {
-		color: red !important;
-	}
+
 
 	body {
 		background: _palette(bg);
@@ -907,7 +905,8 @@
 		@include vendor('justify-content', 'space-between');
 		background-color:		_palette(accent2, bg);
 		background-attachment:	scroll,								fixed;
-		background-image:		url('images/overlay.png'),			url('../../images/bg.jpg');
+		/*background-image:		url('images/overlay.png'),			url('../../images/bg.jpg');*/
+		background-image:		url('../../images/background-pic.jpg'),			url('../../images/background-pic.jpg');
 		background-position:	top left,							top left;
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								auto 100%;
