@@ -2443,6 +2443,12 @@
 			cursor: default;
 		}
 
+/* Image Sizing */
+
+	.project-image-size {
+		height: 174.08px
+	}
+
 /* Work Item */
 
 	.work-item {
