@@ -2449,6 +2449,10 @@
 		height: 174.08px
 	}
 
+	.float-right {
+		float: right !important;
+	}
+
 /* Work Item */
 
 	.work-item {
