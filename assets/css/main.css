@@ -9,6 +9,10 @@
 
 /* Reset */
 
+	.ua-image {
+		height: 188px;
+	}
+
 	#three {
 		margin: 0 auto;
 	}
